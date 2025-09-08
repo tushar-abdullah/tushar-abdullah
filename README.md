@@ -44,6 +44,7 @@ I am a passionate computer science Student. I have been teaching programming lan
 <img title="React" align="left" alt="React-images"  width="45" hspace="5" src="img/react.svg">
 <img title="jquery" align="left" alt="jquery-images"  width="45" hspace="5" src="img/jquery.svg">
 <img title="Node.js" align="left" alt="node.js-images"  width="45" hspace="5" src="img/node.svg">
+<img title="Next.js" align="left" alt="next.js"  width="50" hspace="5" src="img/nextjs.svg">
 <img title="express.js" align="left" alt="express.js-images"  width="45" hspace="5" src="img/expressjs.svg">
 <img title="mongodb" align="left" alt="mongodb-images"  width="45" hspace="5" src="img/mongodb1.svg">
 <img title="mysql" align="left" alt="mysql-images"  width="45" hspace="5" src="img/mysql.svg">
@@ -59,8 +60,7 @@ I am a passionate computer science Student. I have been teaching programming lan
 #### Other Skills :  
 
 <img title="C-Programing" align="left" alt="C-Programing"  width="45" hspace="5" src="img/c.svg">
-<img title="Next.js" align="left" alt="next.js"  width="45" hspace="5" src="img/nextjs.svg">
-<img title="PHP" align="left" alt="Php-Programing"  width="45" hspace="5" src="img/php.svg">
+<img title="PHP-Programing" align="left" alt="Php-Programing"  width="45" hspace="5" src="img/php.svg">
 <img title="Python-Programing" align="left" alt="Python-Programing"  width="45" hspace="5" src="img/python.svg">
 <img title="Wordpress" align="left" alt="Wordpress"  width="45" hspace="5" src="img/wordpress.svg">
 
@@ -90,6 +90,21 @@ I am a passionate computer science Student. I have been teaching programming lan
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-abdullah)](https://github.com/anuraghazra/github-readme-stats)
 <!-- github stats endss here  -->
 
+
+<!-- work experience section starts here  -->
+## 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Full-stack Developer  | Fiverr                                  | Nov 2021 - Running  | Remote  |
+| Full-stack Developer | Upwark                                    | Nov 2021 - Running | Remote  |
+| Full-stack Developer  | Freelancer                          | Nov 2021 - Running | Remote  |
+| Junior Developer    | Dohar Telecomp              | Jul 2022 – Nov 2022 | Dohar, Bangladesh |
+| Junior Developer      | IZ'e Tech              | Jan 2023 - Oct 2023 | Dhaka, Bangladesh |
+| Beggainer developer   | Acronoby Institute | Jul 2025 - Running | Dhaka, Bangladesh |
+
+<br />
+<!-- work experience section ends here  -->
 
 
 <!-- education section starts here  -->
